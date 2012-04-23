@@ -1,6 +1,7 @@
 About
 =====
 Απλό πρόγραμμα μετατροπής ΗΑΤΤ σε ΕΓΣΑ '87.
+
 Simple program to transform HATT to EGSA '87 (GGRS87 / GR87).
 
 Requirements
@@ -9,4 +10,4 @@ Requires python 2.7 and gtk+ 3.
 
 How to run
 ==========
-Download and extract the tarball and double click on `hatt2egsa`.
+Download and extract the tarball and double click on `hatt2egsa.py`.
