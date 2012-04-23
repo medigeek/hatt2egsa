@@ -1,0 +1,10 @@
+About
+=====
+
+Requirements
+============
+Requires python 2.7 and gtk+ 3.
+
+How to run
+==========
+Download and extract the tarball and double click on `hatt2egsa`.
